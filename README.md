@@ -36,14 +36,14 @@ I am a full stack developer (MERN).I completed my bachelor of software engineeri
 <a href="https://fb.com/https://www.facebook.com/mizanurhasan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014968758892" height="30" width="40" /></a>
 </p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mizanurhasan1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizanurhasan0)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurhasan1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurhasan0)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizanurhasan1&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizanurhasan0&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mizanurhasan1)  
+![GitHub metrics](https://metrics.lecoq.io/mizanurhasan0)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mizanurhasan1)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mizanurhasan0)  
 
-![Profile views](https://gpvc.arturio.dev/mizanurhasan1)  
+![Profile views](https://gpvc.arturio.dev/mizanurhasan0)  
